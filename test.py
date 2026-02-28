@@ -6,3 +6,6 @@ print(var)
 
 name = 'vignesh'
 print(name)
+
+def hello:
+  return "function created"
